@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Hello, blog."
+date: 2013-10-14 16:26
+comments: true
+categories: 
+---
+Over the past few years, I've made copious notes on coding, software delivery, agile practices, and other <del>nerdy</del> exciting things. Most of these are locked up in private notes, in emails, or just rattling around my brain, and serving no useful purpose to anyone.
+
+Now I find myself in the middle of a break in between jobs&mdash;a _very_ rare two weeks off work, at home in London. I've done all the household chores imaginable, I've [attended Battle Hack](http://battlehack.org/london/), I've been to visit family, I've finally [set up RaspBMC](http://www.raspbmc.com/) and [installed OpenVPN on my Raspberry Pi](http://en.alexnogard.com/install-openvpn-raspberry-pi-wheezy-debian/). I've started to get involved with [RapidFTR](http://www.rapidftr.com/) development. I've been occasionally contributing to [some](https://github.com/samsalisbury/modern-skins) [projects](https://github.com/samsalisbury/righteous-git-hooks) on GitHub. I still have a lot of free time. I can't put it off any longer. Welcome, world, to some extra [informational pollution](http://en.wikipedia.org/wiki/Information_pollution), and maybe the odd interesting thing. Courtesy of [yours](https://twitter.com/samsalisbury) [truly](http://uk.linkedin.com/in/samsalisbury/).
+
