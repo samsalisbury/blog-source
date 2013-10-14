@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://samsalisbury.github.io//github
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://samsalisbury.github.io/blog
+title: Code, lies, and blargles.
+subtitle: Hello?
+author: Sam Salisbury
 simple_search: http://google.com/search
-description:
+description: Various musings and random observations on code, coding, and coders.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -26,7 +26,7 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /github
+root: /blog
 permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public/github
