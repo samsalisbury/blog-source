@@ -4,10 +4,10 @@ title: "MacBook Pro Review - From a Windows .NET Developer"
 date: 2013-10-16 10:38
 comments: true
 categories:
-	- Mac
-	- review
-	- Apple
-	- OS X
+- Mac
+- review
+- Apple
+- OS X
 published: false
 ---
 About 6 months ago, I was lucky enough to briefly take over development of an iOS App. This meant I needed [a Mac](http://www.apple.com/macbook-pro/). I had not used a Mac for 10 years, so I had no idea what to expect. I was very pleasantly suprised.
