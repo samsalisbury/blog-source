@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MacBook Pro Review&mdash;From a Windows .NET Developer"
+title: "MacBook Pro & OS X Review&thinsp;&mdash;&thinsp;From a Windows .NET Developer"
 date: 2013-10-16 10:38
 comments: true
 categories:
@@ -13,7 +13,7 @@ published: false
 About 6 months ago, I was lucky enough to briefly take over development of an iOS App. This meant I needed [a Mac](http://www.apple.com/macbook-pro/). I had not used a Mac for 10 years, so I had no idea what to expect. I was very pleasantly suprised.
 
 ## The Hardware: MacBook Pro with Retina Display, 16GB/512GB/2.7GHz i7)
-The first thing I noticed was that the hardware was incredibly, _perfectly,_ manufactured. (Even my ridiculously expensive Dell _Precision_ workstation was shipped with a misaligned, slightly twisted lid, which wasn't deemed important enough for them to fix.) The large trackpad didn't rattle around on the MacBook, like it did in most of the Dell laptops in use around the office. The lid shut with a pleasing thud, perfectly aligned, and the keys, one of the things that had always put me off Apple keyboards, were actually very easy to use. The clickable trackpad was very precise. The retina display completely made a mockery of anything I'd seen before, save for the retina iPhone displays. The USB, Thunderbolt, DVI, headphones and other ports were in the correct place (lined up as near to the base of the monitor as possible, rather than arbitrarily half way down the keyboard). There were no buttons without purpose, unlike the strange alternative power button on my Dell, which 3 years later I still have no idea of the purpose of. Everything very neat and in the most 'obvious' place. This was truly a masterpiece of simplicity done well.
+The first thing I noticed was that the hardware was incredibly precisely manufactured. I know this is gross repetition, but it's true, and pretty striking&thinsp;&mdash;&thinsp;even my ridiculously expensive Dell 'Precision' workstation was shipped with a misaligned, slightly twisted lid. The large trackpad didn't rattle around on the MacBook, like it did in most of the Dell laptops in use around the office. The lid shut with a pleasing thud, perfectly aligned, and the keys, one of the things that had always put me off Apple keyboards, were actually very easy to use. The clickable trackpad was very precise. The retina display completely made a mockery of anything I'd seen before, save for the retina iPhone displays. The USB, Thunderbolt, DVI, headphones and other ports were in the correct place (lined up as near to the base of the monitor as possible, rather than arbitrarily half way down the keyboard). There were no buttons without purpose, unlike the strange alternative power button on my Dell, which 3 years later I still have no idea of the purpose of. Everything very neat and in the most 'obvious' place. This was truly a masterpiece of simplicity done well.
 
 ## Keyboard Weirdness
 Some things about the hardware design are not, however, clear no-brainers.
