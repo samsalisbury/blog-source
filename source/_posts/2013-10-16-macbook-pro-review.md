@@ -28,11 +28,11 @@ Skip to:
 The first thing I noticed was that the hardware was incredibly precisely manufactured. I know this is gross repetition, but it's true, and it's striking&thinsp;&mdash;&thinsp;even my ridiculously expensive [Dell 'Precision' workstation](http://www.dell.com/us/business/p/precision-m6500/pd) was shipped with a misaligned, slightly twisted lid. The lid on this beast shut with a pleasing thud, perfectly aligned.
 
 
-### <a id="trackpad"></a> The Trackpad
+### <a id="trackpad"></a> <i class="icon-hand-up"></i> The Trackpad
 The large, clickable trackpad, smooth and precise, didn't rattle around with gentle usage on the MacBook, like it did in most of the brand new Dell laptops in use around the office. In fact, it didn't budge a millimetre even with six months of prolonged heavy-handed abuse. Its texture was very smooth, meaning that with any dampness it became quite grippy, impinging on the usual smooth glide accross its surface. However, its size, responsiveness, and precision meant it was an absolute pleasure to use.
 
 
-### <a id="screen"></a> The Display
+### <a id="screen"></a> <i class="icon-laptop"></i> The Display
 The high-res&mdash;'Retina'in marketing lingo&mdash; was pretty stunning, and text appeared silky-smooth, and totally rounded. Not a pixel in sight. This, unfortunately, completely made a mockery of anything lower-resolution. Other monitors which had seemed perfectly fine up to this point began to look like cheap toys.
 
 
@@ -40,7 +40,7 @@ The high-res&mdash;'Retina'in marketing lingo&mdash; was pretty stunning, and te
 The layout of the USB, Thunderbolt, DVI, headphones and other ports was, simply, correct. Lined up as near to the base of the screen as possible, rather than arbitrarily half way down the keyboard. There were no buttons without purpose, anywhere. In stark contrast to my Dell, with a strange alternative power button, which 3 years on I still have no idea of the purpose of.
 
 
-### <a id="keyboard"></a> The Keyboard
+### <a id="keyboard"></a> <i class="icon-keyboard"></i> The Keyboard
 The flat, short-action keyboard keys, were one of the things that had always put me off Apple laptops. In reality they were actually very pleasing to use, and nowhere near as flimsy as they looked. Tick.
 
 However, some aspects of the keyboard design are certainly questionable&mdash;for a Windows guy at least.
