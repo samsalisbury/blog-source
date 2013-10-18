@@ -51,7 +51,19 @@ The high resolution display&mdash;'Retina' display in marketing lingo&mdash; was
 
 
 ### <a id="ports"></a> <i class="icon-headphones"></i> <i class="icon-hdd"></i> <i class="icon-gamepad"></i> <i class="icon-print"></i> <i class="icon-printer"></i> The Ports
-The layout of the USB, Thunderbolt, DVI, headphones and other ports was, simply, correct. Lined up as near to the base of the screen as possible, rather than arbitrarily half way down the keyboard.
+
+On a MacBook Pro with Retina Display, there are the following ports:
+
+- MagSafe 2 power port
+- 2x USB3 (one on either side)
+- 2x Thunderbolt
+- HDMI
+- Headphones
+- SDXC slot
+
+The layout of the USB, Thunderbolt, HDMI, headphones and other ports seems, simply, correct. Lined up as near to the base of the screen as possible, rather than arbitrarily half way down the keyboard, cables tend to stay out of the way.
+
+I use one of the Thunderbolt ports to power a monitor (through a [Thunderbolt to HDMI adapter](http://store.apple.com/uk/product/MB570Z/B/mini-displayport-to-dvi-adapter?fnode=78)), and hook up another monitor to the HDMI slot. I typically plug in a USB to ethernet adapter if I'm at my desk, and switch off wireless. I can't wait to get my hands on [one of these](http://store.apple.com/uk/product/MC914B/B/apple-thunderbolt-display-27-inch), so I'll only need to use a single Thunderbolt port for two monitors and ethernet, reducing clutter a lot.
 
 
 
@@ -120,8 +132,8 @@ The 15&ndash;inch MacBook Pro with Retina Display is _very_ neat. It's also very
 
 > The MacBook Pro with Retina Display is the most productive development workstation I have ever used.
 
-Even for a Windows and Microsoft.NET developer, the experience of doing that work on a MacBook Pro, in a VM, is that of hugely increased efficiency, and even sanity. OS X is a much more accomplished laptop OS than Windows, with its multiple desktops clear menus, and sensible file system.
+As a Microsoft.NET developer, the experience of working inside a Windows VM on a MacBook Pro is that of hugely increased efficiency, and even sanity, compared with working on any other hardware. OS X is a much more accomplished laptop OS than Windows, as I'll go into tomorrow.
 
 **My recommendation: get one, or, better, get your work to get you one! The MacBook Pro with Retina Display is the most productive development workstation I have ever used.**
 
-_Disclaimer: I have written all this from memory, as I'm currently without a Mac, in between jobs; thus the frequent use of past tense. Comments/trolls welcome ;)_
+_Disclaimer: I have written all this from memory, as I'm currently in between Macs; thus the frequent use of past tense. Comments/trolls welcome ;)_
