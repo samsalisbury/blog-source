@@ -1,18 +1,21 @@
 ---
 layout: post
-title: "MacBook Pro (Retina) Review"
-date: 2013-10-16 10:38
+title: "Migrating to MacBook&mdash;Review"
+date: 2013-10-18 10:38
 comments: true
 categories:
 - Mac
 - review
 - Apple
-- OS X
+- Migrating from Windows to Mac
 published: true
 ---
-About 6 months ago, I was lucky enough to briefly take over development of an iOS App. This meant I needed [a Mac](http://www.apple.com/macbook-pro/). I was a die-hard .NET developer, _using Windows almost exclusively for the past 20 years_&mdash;last time I used a Mac was as a 9 year old at school. In short, I had pretty much no idea what to expect. And from what I'd heard I wasn't convinced this was a good idea... How can a person, a developer, _a Microsoft developer,_ live with a strange keyboard, no right mouse button, and NO DELETE KEY?!
 
-Well, it wasn't half as bad as I thought...
+_This [MacBook Pro (Retina) review]() is part 1 of a [series on migrating from Windows to Mac](/blog/series#migrating-from-windows-to-mac)._ 
+
+About 6 months ago, I was lucky enough to briefly take over development of an iOS App. This meant I needed [a Mac](http://www.apple.com/macbook-pro/). I was a die-hard .NET developer, _using Dell machines with Windows almost exclusively for the past 20 years_&mdash;last time I used a Mac was as a 9 year old at school. In short, I had pretty much no idea what to expect. And from what I'd heard I wasn't convinced this was a good idea... How can a person, a developer, _a Microsoft developer,_ live with a strange keyboard, an unfamiliar OS, shiny skeuomorphic apps, and, did I mention, a strange keyboard?!
+
+It wasn't half as bad as I thought...
 
 Skip to:
   **[Hardware](#hardware)** ([keyboard](#keyboard), [trackpad](#trackpad), [display](#display), [ports](#ports))
@@ -66,31 +69,6 @@ Some aspects of the keyboard design, though, are definitely questionable&mdash;f
 The whole thing is very neat, it's also _very_ thin for a desktop replacement. Easily light enough to work with on one's lap all day, and to carry to work and back daily without really noticing it.
 
 This laptop is a masterpiece of lean simplicity.
-
-
-
-
-
-
-## <a id="os"></a> The Operating System
-
-**OS X Mountain Lion**
-
-The transition from Microsoft Windows to Mac OS X was not as clear-cut advantageous as the transition from Dell to Apple hardware was. There are some quite strange things for a Windows user to get used to in OS X...
-
-
-
-### <a id="os-confusing"></a> Confusing things in OS X (for a Windows user)
-
-**Closing a Window hardly ever ends a program.** Conversely, in Windows, you usually expect that closing a program's main window will end the program. If not, you can always look in the system tray (in fact, the '[notification area](http://en.wikipedia.org/wiki/Taskbar#Taskbar_elements)') to verify whether the program is really dead or not. In OS X, only certain programs seem to die when you close all their windows. This upset me for about an hour when I realised. However, a simple `⌥⇥` (`Option+Tab`) shows all running applications. You can then quit the programs with a simple `⌘Q` (`Command+Q`).
-
-**Full-Screen Apps Only Use One Monitor** This is a very weird decision on the part of Apple. Making an app full-screen will blank out all the other monitors, rendering them useless. However, this will be [fixed in the upcoming OS X Mavericks](http://www.apple.com/uk/osx/preview/#multiple-displays) release. (Note: link will eventually break.)
-
-
-
-### <a id="os-good"></a> Brilliant features in OS X
-
-**Mission Control, Exposé, and Spaces, are amazing.** Nuf' said. But really, these three core UI navigation features are really central to any multi-window workflow on OS X. And, they're pretty much a game-changer, coming from Windows. You can swipe three fingers left or right, to access [as many desktops ('Spaces')](http://mattgemmell.com/2011/07/27/using-spaces-on-os-x-lion/), as you need. This is an astonishingly useful feature, especially when you don't have an external monitor. The quickness of three-fingers up, to see all open windows and desktops, known as [Mission Control](http://en.wikipedia.org/wiki/Mission_Control_(OS_X\)), is also hugely useful. There is also an under-used three-fingers-down gesture to [show all windows belonging to the current application, 'App Exposé'](http://www.apple.com/uk/osx/what-is/gestures.html#gallery-gestures-expose). I am no longer horrified by the idea of working without [multiple](http://www.codinghorror.com/blog/2004/06/multiple-monitors-and-productivity.html) [external](http://www.codinghorror.com/blog/2010/04/three-monitors-for-every-user.html) [monitors](http://www.codinghorror.com/blog/2008/03/does-more-than-one-monitor-improve-productivity.html).
 
 
 
