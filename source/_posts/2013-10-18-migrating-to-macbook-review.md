@@ -11,16 +11,19 @@ categories:
 published: true
 ---
 
-_This [MacBook Pro (Retina) review]() is part 1 of a [series on migrating from Windows to Mac](/blog/series#migrating-from-windows-to-mac)._ 
+_This [MacBook Pro with Retina Display review]() is part 1 of a [series on migrating from Windows to Mac](/blog/series#migrating-from-windows-to-mac)._ 
 
-About 6 months ago, I was lucky enough to briefly take over development of an iOS App. This meant I needed [a Mac](http://www.apple.com/macbook-pro/). I was a die-hard .NET developer, _using Dell machines with Windows almost exclusively for the past 20 years_&mdash;last time I used a Mac was as a 9 year old at school. In short, I had pretty much no idea what to expect. And from what I'd heard I wasn't convinced this was a good idea... How can a person, a developer, _a Microsoft developer,_ live with a strange keyboard, an unfamiliar OS, shiny skeuomorphic apps, and, did I mention, a strange keyboard?!
-
-It wasn't half as bad as I thought...
+> Six months ago, I was lucky enough to take over development of an iOS App. This meant I needed [a Mac](http://www.apple.com/macbook-pro/). _I was a die-hard .NET developer, using Dell/Windows machines almost exclusively for the past 20 years. In short, I had pretty much no idea what to expect._ From what I'd heard I wasn't convinced this was a good idea... How can a developer, _a Microsoft developer,_ live with a strange keyboard, an unfamiliar OS, shiny skeuomorphic apps, and, did I mention, a strange keyboard?! _It wasn't half as bad as I expected..._
 
 Skip to:
-  **[Hardware](#hardware)** ([keyboard](#keyboard), [trackpad](#trackpad), [display](#display), [ports](#ports))
-| **[OS X](#os)** ([confusing](#os-confusing), [good](#os-good))
-| **[Conclusion](#conclusion)**
+[Hardware](#hardware)
+| [Keyboard](#keyboard)
+| [Trackpad](#trackpad)
+| [Display](#display)
+| [Ports](#ports)
+| [Performance](#performance)
+| [Usability](#usability)
+| [Conclusion](#conclusion)
 
 
 
@@ -31,6 +34,8 @@ Skip to:
 **15&ndash;inch MacBook Pro with Retina Display, 16GB RAM, 512GB SSD, 2.7GHz Core i7**
 
 The first thing I noticed was that the hardware was incredibly precisely manufactured. I know this is gross repetition, but it's true, and it's striking&thinsp;&mdash;&thinsp;even my ridiculously expensive [Dell 'Precision' workstation](http://www.dell.com/us/business/p/precision-m6500/pd) was shipped with a misaligned, slightly twisted lid. The lid on this beast shut with a pleasing thud, perfectly aligned.
+
+It's also thin, really really thin. This is basically a desktop replacement, it's probably the most powerful computer I'd ever used, and also, somehow, the thinnest and lightest. (Sure, it's no MacBook Air, but for the power in there, it's pretty amazing how little space this thing takes up.)
 
 
 
@@ -51,9 +56,7 @@ The layout of the USB, Thunderbolt, DVI, headphones and other ports was, simply,
 
 ### <a id="keyboard"></a> <i class="icon-keyboard"></i> The Keyboard
 
-The flat, short-action keyboard keys, were one of the things that had always put me off Apple laptops. However, in reality they were actually very pleasing to use, and nowhere near as flimsy as they looked. Tick.
-
-Some aspects of the keyboard design, though, are definitely questionable&mdash;for a Windows guy at least.
+The flat, short-action keyboard keys, were one of the things that had always put me off Apple laptops. However, in reality they were reasonably pleasing to use, and nowhere near as flimsy as they looked. _Tick._ Some aspects of the keyboard design, though, are definitely questionable&mdash;for a Windows guy at least.
 
 **The power button <i class="icon-off"></i> is 'just another' key,** on the top right of the keyboard. Whilst this keeps things very uniform, accidentally hitting the off button whilst typing is a little unnerving... Even though you still have to confirm before the machine actually powers down.
 
@@ -64,21 +67,36 @@ Some aspects of the keyboard design, though, are definitely questionable&mdash;f
 **There is no delete key.** This seemed like a terrible oversight at first, and six months later still seems a very questionable decision. However one quickly becomes proficient at using the arrow keys with the backspace to achieve the same effect. You can also use `⇧⌫` (`Shift+Backspace`) to exactly replicate the delete key. In Mac parlance, this is known as a 'forward delete'.
 
 
-### Overall Hardware Experience
-
-The whole thing is very neat, it's also _very_ thin for a desktop replacement. Easily light enough to work with on one's lap all day, and to carry to work and back daily without really noticing it.
-
-This laptop is a masterpiece of lean simplicity.
 
 
 
 
+## <a id="performance"></a> The Performance
 
 
-## <a id="conclusion"></a> The Ominous Conclusion
-The sheer usability of this machine resulted in a number of changes to lifelong habits that I had never previously considered possible:
 
-- I stopped using an external mouse and keyboard entirely
-- I did not require external monitors for basic productivity
+
+
+## <a id="usability"></a> The Usability
+
+The MacBook Pro is the most usable computer I have ever used. Its sheer usability has resulted in a number of changes to lifelong habits that I had never previously considered possible:
+
+- **I have stopped using an external mouse and keyboard entirely.** The built-in trackpad is so good that I no longer have any need for a mouse at all. The keyboard is _good enough._ By using only the built-in keyboard&mdash;whether on the train or at my desk&mdash;my mucle memory has only one keyboard to remember, and thus touch-typing is much easier.
+
+- **I do not _require_ external monitors for reasonable productivity.** This is in fact more related to OS X: its brilliant implementation of multiple desktops, and the ease of switching between them, means I no longer feel claustrophobic working on a single 15&ndash;inch display.
+
+
+
+
+
+
+## <a id="conclusion"></a> The Conclusion
+The 15&ndash;inch MacBook Pro with Retina Display is _very_ neat. It's also _very_ thin for a desktop replacement. Easily light enough to work with on one's lap all day, and to carry to work and back daily without really noticing it.
+
+> The MacBook Pro with Retina Display is the most productive development workstation I have ever used.
 
 Even for a Windows and Microsoft.NET developer, the experience of developing on a MacBook Pro is that of hugely increased efficiency, and even sanity. OS X is a much more accomplished laptop OS than Windows, with its multiple desktops clear menus, and sensible file system.
+
+**My recommendation: get one, or, better, get your work to get you one! The MacBook Pro with Retina Display is the most productive development workstation I have ever used. Comments/trolls welcome ;)**
+
+I've begun writing a Windows to OS X migration review, and I'll publish that tomorrow. Thanks for reading!

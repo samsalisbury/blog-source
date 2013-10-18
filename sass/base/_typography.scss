@@ -120,6 +120,9 @@ article blockquote {
     a { color: $text-color-light !important; word-wrap: break-word; }
     &:before { content: '\2014'; padding:{right: .3em; left: .3em;} color: $text-color-light; }
   }
+  em {
+    font-style: normal;
+  }
   @media only screen and (min-width: 992px) {
     padding-left: 1.5em;
     border-left-width: 4px;

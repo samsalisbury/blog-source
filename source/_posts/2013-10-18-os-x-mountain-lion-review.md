@@ -13,6 +13,8 @@ published: false
 
 _This is part 2 of a series on migrating from Windows to Mac._
 
+Skip to: **[OS X](#os)** ([confusing](#os-confusing), [good](#os-good))
+
 ## <a id="os"></a> The Operating System
 
 **OS X Mountain Lion**
