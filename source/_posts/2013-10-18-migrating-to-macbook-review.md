@@ -15,6 +15,8 @@ _This [MacBook Pro with Retina Display review]() is part 1 of a [series on migra
 
 > Six months ago, I was lucky enough to take over development of an iOS App. This meant I needed [a Mac](http://www.apple.com/macbook-pro/). _I was a die-hard .NET developer, using Dell/Windows machines almost exclusively for the past 20 years. In short, I had pretty much no idea what to expect._ I wasn't convinced this would be a good idea... How can a developer, _a Microsoft developer,_ live with a strange keyboard, an unfamiliar OS, shiny skeuomorphic apps, and, did I mention, a strange keyboard?! _It wasn't half as bad as I expected..._
 
+<!-- more -->
+
 Skip to:
 [Hardware](#hardware)
 | [Keyboard](#keyboard)

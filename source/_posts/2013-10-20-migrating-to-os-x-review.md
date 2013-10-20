@@ -1,17 +1,21 @@
 ---
 layout: post
-title: "From Windows to OS X Mountain Lion Review"
-date: 2013-10-18 12:37
+title: "Migrating to OS X&mdash;Review"
+date: 2013-10-20 18:00
 comments: true
 categories:
 - OS X
 - review
 - Apple
 - Migrating from Windows to Mac
-published: false
+published: true
 ---
 
-_This is part 2 of a series on migrating from Windows to Mac._
+_This [Mac OS X 10.8 Mountain Lion review]() is part 2 of a [series on migrating from Windows to Mac](/blog/series#migrating-from-windows-to-mac)._ 
+
+> About 6 months ago I (a .NET developer) took over maintenance of an iOS app. This meant I needed to use a Mac, for the first time in 20 years. In order to avoid maintaining 2 separate workstations, I also switched to using OS X as my primary operating system, with Windows in a VM to continue my .NET work. Here's my take on making the switch...
+
+<!-- more -->
 
 Skip to: **[OS X](#os)** ([confusing](#os-confusing), [good](#os-good))
 
@@ -19,7 +23,7 @@ Skip to: **[OS X](#os)** ([confusing](#os-confusing), [good](#os-good))
 
 **OS X Mountain Lion**
 
-The transition from Microsoft Windows to Mac OS X was not as clear-cut advantageous as the transition from Dell to Apple hardware was. There are some quite strange things for a Windows user to get used to in OS X...
+The transition from Microsoft Windows to Mac OS X was not as clear-cut advantageous as the [transition from Dell to Apple hardware](/blog/2013/10/18/migrating-to-macbook-review) was. There are some quite strange things for a Windows user to get used to in OS X...
 
 
 
